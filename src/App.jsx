@@ -33,14 +33,14 @@ const MemoriesApp = () => {
   const images = [
     {
       id: 1,
-      url: "/public/images/DSC_0496.jpeg",
+      url: "/images/DSC_0496.jpeg",
       alt: "Nuestro primer recuerdo",
     },
-    { id: 2, url: "/public/images/foto2.jpeg", alt: "Momentos especiales" },
-    { id: 3, url: "/public/images/foto3.jpeg", alt: "Atardeceres juntos" },
-    { id: 4, url: "/public/images/foto4.jpeg", alt: "Caminando de la mano" },
-    { id: 5, url: "/public/images/foto5.jpeg", alt: "Momentos inolvidables" },
-    { id: 6, url: "/public/images/foto6.jpeg", alt: "Juntos por siempre" },
+    { id: 2, url: "/images/foto2.jpeg", alt: "Momentos especiales" },
+    { id: 3, url: "/images/foto3.jpeg", alt: "Atardeceres juntos" },
+    { id: 4, url: "/images/foto4.jpeg", alt: "Caminando de la mano" },
+    { id: 5, url: "/images/foto5.jpeg", alt: "Momentos inolvidables" },
+    { id: 6, url: "/images/foto6.jpeg", alt: "Juntos por siempre" },
   ];
 
   const details = [
