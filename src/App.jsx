@@ -51,10 +51,19 @@ const MemoriesApp = () => {
   ];
 
   const romanticMessages = [
-    "Cada latido de mi corazón lleva tu nombre",
+    "Desde que te conocí, mi mundo brilla con más fuerza",
+    "Si el amor tuviera rostro, sin duda sería el tuyo",
+    "Contigo, cada día es una historia que vale la pena contar",
+    "A tu lado, el tiempo se detiene y la felicidad florece",
     "Eres el sueño que nunca quise despertar",
     "En un mundo de temporadas, tú eres mi eterno verano",
     "Tu amor es la melodía que alegra mis días",
+    "A tu lado, cada instante se convierte en un recuerdo eterno",
+    "Eres la razón por la que mi corazón sonríe cada día",
+    "En tu abrazo encontré mi hogar",
+    "Eres la casualidad más hermosa que llegó a mi vida",
+    "Tenerte en mi vida es la mejor de las bendiciones",
+    "Eres mi hoy, mi mañana y mi siempre",
   ];
 
   const imageTemplate = (image) => (
